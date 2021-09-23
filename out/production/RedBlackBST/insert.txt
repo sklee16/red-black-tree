@@ -1,0 +1,18 @@
+insert 1 101
+insert 3 102
+delete 3
+
+insert 1 269
+insert 6 611
+insert 7 851
+insert 5 471
+delete 6
+getelement 2 3
+
+insert 1 122
+insert 8 639
+insert 3 322
+insert 5 958
+insert 6 267
+insert 7 113
+getelement 0 2
